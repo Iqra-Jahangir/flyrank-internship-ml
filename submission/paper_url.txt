@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+   https://iqra-jahangir.github.io/flyrank-internship-ml/
